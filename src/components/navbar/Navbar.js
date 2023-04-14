@@ -53,10 +53,12 @@ const Navbar = () => {
 
                 <ul className={nav ? 'nav-menu active' : 'nav-menu'}>
                     <li><Link to='/'>Home</Link></li>
-{/*                     
+                    
+                    {/*                     
                     <li><Link to='/sober-living'>SOBER LIVING</Link> </li>
+                    */}
 
-                    <li><Link to='/mission'>ABOUT US</Link> </li> */}
+                    <li><Link to='/mission'>About 9 Silver</Link> </li> 
 
 
                     <li><Link to='/contact'>Contact</Link></li>

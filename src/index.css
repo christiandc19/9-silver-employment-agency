@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
 :root {
-  --primary-color: rgb(218, 133, 76);
+  --primary-color: rgb(76, 178, 218);
   --primary-dark: #141d35;
   --secondary-color: #46a828;
 
@@ -73,7 +73,7 @@ button {
   font-family: 'Roboto', sans-serif;
   padding: .8rem 3rem;
   margin: 1rem 0;
-  background-color: rgba(223, 122, 8, 0.815);
+  background-color: rgb(76, 178, 218);
   border: 1px solid rgba(196, 110, 11, 0.144);
   color: #f8f8f8;
   font-size: 1.2rem;

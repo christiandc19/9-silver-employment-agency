@@ -25,9 +25,13 @@
   }
 
   #slides__3 {
-    background: url('../../assets/hero-bg3.jpg') no-repeat center top/cover;
+    background: url('../../assets/hero-bg4.jpg') no-repeat center top/cover;
   }
   
+  #slides__4 {
+    background: url('../../assets/hero-bg3.jpg') no-repeat center top/cover;
+  }
+
   .slide:nth-of-type(even) {
     background-color: rgb(250, 246, 212);
   }
@@ -98,9 +102,9 @@
   .slide__next {
     position: absolute;
     top: 48%;
-    width: 20px;
-    height: 20px;
-    border: solid rgba(17, 17, 17, 0.842);
+    height: 15px;
+    width: 15px;
+    border: solid rgba(17, 17, 17, 0.664);
     border-width: 0 4px 4px 0;
     padding: 3px;
     box-sizing: border-box;
@@ -128,12 +132,12 @@
   
   .slider__navlink {
     display: inline-block;
-    height: 30px;
-    width: 30px;
+    height: 25px;
+    width: 25px;
     border-radius: 50%;
-    background-color: rgba(17, 17, 17, 0.616);
+    background-color: rgb(76, 178, 218);
     margin: 0 10px 0 10px;
-    border: solid white 2px;
+    border: solid rgb(135, 189, 224) 1.5px;
   }
   
   

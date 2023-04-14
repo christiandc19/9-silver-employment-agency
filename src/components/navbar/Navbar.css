@@ -61,11 +61,10 @@
   }
 
   .hide a {
-    color: #fff;
+    color: rgb(76, 178, 218);
     font-size: 13px;
-    font-weight: 600;
+    font-weight: 400;
   }
-
 
   .menu-item .sub__menus li a {
     color: #353535;
