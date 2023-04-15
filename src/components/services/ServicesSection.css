@@ -2,8 +2,9 @@
 
 
 .ServicesSection {
-    width: 100%;
+    width: 70%;
     position: relative;
+    margin: auto;
 }
 
 .ServicesSection .content {
@@ -30,8 +31,8 @@
 .Services-thumbnail  {
     border: 1px solid rgba(161, 101, 10, 0.181);
     margin: 1rem;
-    width: 200px;
-    height: 130px;
+    width: 250px;
+    height: 230px;
     padding: 5px;
     border-radius: 10px;
     padding: 1.5rem;
@@ -82,10 +83,24 @@
     }
 
 
+    .ServicesSection {
+        width: 100%;
+    }
+
     .Services-thumbnail  {
-    width: 160px;
-}
+        width: 80%;
+    }
 
 }
 
+
+@media  screen and (max-width:700px) {
+    .ServicesSection {
+        width: 100%;
+    }
+
+    .Services-thumbnail  {
+        width: 100%;
+    }
+}
 

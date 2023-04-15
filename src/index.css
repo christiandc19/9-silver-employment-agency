@@ -38,7 +38,7 @@ a {
 }
 
 a:hover {
-  color: black;
+  color: rgb(76, 178, 218);
   font-weight: 600;
   text-decoration: none;
 }

@@ -29,21 +29,24 @@ const ServicesSection = () => {
                             <Fade bottom>
                                 <div className='Services-thumbnail'>
                                 <img src={IconBed} height="50" alt="bed icon" loading="lazy"/>
-                                <p>Recruitment</p>
+                                <p>Recruitment</p><br/>
+                                <p>Luctus magnis ut taciti nam augue arcu auctor nunc. Et lobortis accumsan augue justo dapibus tortor.</p>
                                 </div>
                             </Fade>
 
                             <Fade bottom>
                                 <div className='Services-thumbnail'>
                                 <img src={IconExercise} height="50" alt="Person Exercisign Icon" loading="lazy"/>
-                                <p>Career Growth</p>
+                                <p>Career Growth</p><br/>
+                                <p>Luctus magnis ut taciti nam augue arcu auctor nunc. Et lobortis accumsan augue justo dapibus tortor.</p>
                                 </div>
                             </Fade>
 
                             <Fade bottom>
                                 <div className='Services-thumbnail'>
                                 <img src={IconFacilities} height="50" alt="Facility Amenities icon" loading="lazy"/>
-                                <p>Gigs</p>
+                                <p>Gigs</p><br/>
+                                <p>Luctus magnis ut taciti nam augue arcu auctor nunc. Et lobortis accumsan augue justo dapibus tortor.</p>
                                 </div>
                             </Fade>
 
@@ -51,14 +54,16 @@ const ServicesSection = () => {
                             <Fade bottom>
                                 <div className='Services-thumbnail'>
                                 <img src={IconSupport} height="50" alt="Heart icon" loading="lazy"/>
-                                <p>HR Solution</p>
+                                <p>HR Solution</p><br/>
+                                <p>Luctus magnis ut taciti nam augue arcu auctor nunc. Et lobortis accumsan augue justo dapibus tortor.</p>
                                 </div>
                             </Fade>
 
                             <Fade bottom>
                                 <div className='Services-thumbnail'>
                                 <img src={IconMentoring} height="50" alt="Mentoring icon" loading="lazy"/>
-                                <p>Payroll Services</p>
+                                <p>Payroll Services</p><br/>
+                                <p>Luctus magnis ut taciti nam augue arcu auctor nunc. Et lobortis accumsan augue justo dapibus tortor.</p>
                                 </div>
                             </Fade>
 
@@ -66,7 +71,8 @@ const ServicesSection = () => {
                             <Fade bottom>
                                 <div className='Services-thumbnail'>
                                 <img src={IconMonitoring} height="50" alt="Nursing Monitoring icon" loading="lazy"/>
-                                <p>Workforce System</p>
+                                <p>Workforce System</p><br/>
+                                <p>Luctus magnis ut taciti nam augue arcu auctor nunc. Et lobortis accumsan augue justo dapibus tortor.</p>
                                 </div>
                             </Fade>
 
