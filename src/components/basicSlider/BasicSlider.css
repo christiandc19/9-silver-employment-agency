@@ -3,7 +3,7 @@
   .slider {
     width: 100%;
     max-width: 100%;
-    height: 80vh;
+    height: 100vh;
     overflow: hidden;
     position: relative;
   }
@@ -41,7 +41,7 @@
     justify-content: center;
     flex-shrink: 0;
     width: 100%;
-    height: 80vh;
+    height: 100vh;
     scroll-snap-align: center;
     margin-right: 0px;
     background: white;
@@ -52,21 +52,18 @@
 
 .slide__text {
   position: absolute;
-  left: 10%;
+  left: 7%;
   top: 30%;
-  width: 400px;
+  width: 500px;
   text-align: center;
 }
 
   .slide__text h1{
     font-size: 3rem;
     font-weight: bold;
-    font-family: sans-serif;
     color: black;
     line-height: 3.5rem;
     font-family: 'Roboto', sans-serif;
-
-
   }
 
   .slide__text h2{

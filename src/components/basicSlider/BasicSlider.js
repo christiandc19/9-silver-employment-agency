@@ -11,10 +11,10 @@ const BasicSlider = () => {
             <div id="slides__1" class="slide">
               <div class="slide__text">
                 <Fade left>
-                  <h1>EXECUTIVE SEARCH FIRM</h1>
+                  <h1>CONNECTING THE RIGHT PEOPLE TO THE RIGHT BUSINESS</h1>
                 </Fade>
                 <Fade bottom>
-                  <h2>Specializing in Health Care recruitment</h2>
+                  <h2>Specializing in Health Care Recruitment</h2>
                 </Fade>
               </div>
               <a class="slide__prev" href="#slides__4" title="Next"></a>
@@ -24,7 +24,7 @@ const BasicSlider = () => {
             <div id="slides__2" class="slide">
               <div class="slide__text">
                   <Fade top>
-                    <h1>DIRECT HIRE RECRUITMENT</h1>
+                    <h1>ONE STEP TO YOUR FUTURE STARTS HERE</h1>
                   </Fade>
                   <h2>Find Your Dream Career</h2>
               </div>
@@ -48,7 +48,7 @@ const BasicSlider = () => {
             <div id="slides__4" class="slide">
             <div class="slide__text">
                 <Fade left>
-                  <h1>TEMPORARY STAFFING</h1>
+                  <h1>DIRECT HIRE RECRUITMENT</h1>
                 </Fade>
                 <Fade bottom>
                   <h2>Specializing in Health Care recruitment</h2>

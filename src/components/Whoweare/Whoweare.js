@@ -10,8 +10,8 @@ const Whoweare = () => {
 <div className='homepage-wrap'>
         <Fade left>
             <div className='SoberLiving-title'>
-                <h1>WHY 9 SILVER?</h1><br/>
-                <p>Build a new life at one of our sober living homes across Los Angeles, providing support and a community of healing behind you, every step of the way. <br/> Transitioning back into society is difficult in many situations that's why we offer an opportunity of a new beginning to the world of sobriety.
+                <h1>Why 9 Silver?</h1><br/>
+                <p>Top offers from the best employers in the market. Apply and we will support you throughout the recruitment process.
                 </p>
             </div>
         </Fade>
