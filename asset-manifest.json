@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/9-silver-employment-agency/static/css/main.fc960c39.css",
-    "main.js": "/9-silver-employment-agency/static/js/main.06197691.js",
+    "main.css": "/9-silver-employment-agency/static/css/main.8ca1f398.css",
+    "main.js": "/9-silver-employment-agency/static/js/main.7fa8409a.js",
     "static/media/menu-bg-west-hollywood.png": "/9-silver-employment-agency/static/media/menu-bg-west-hollywood.5cfb379f0f407f5b0b7c.png",
     "static/media/venice-retreat1.png": "/9-silver-employment-agency/static/media/venice-retreat1.9e4e62b22ff14f836cf8.png",
     "static/media/menu-bg-huntington-beach-min.png": "/9-silver-employment-agency/static/media/menu-bg-huntington-beach-min.391a3cc07fbad9b9c42e.png",
@@ -43,11 +43,11 @@
     "static/media/icon-bed.jpg": "/9-silver-employment-agency/static/media/icon-bed.51fc82feba595a72b3e0.jpg",
     "index.html": "/9-silver-employment-agency/index.html",
     "static/media/waves.svg": "/9-silver-employment-agency/static/media/waves.e42ddec972c9ec214abc0ac6e8439ee4.svg",
-    "main.fc960c39.css.map": "/9-silver-employment-agency/static/css/main.fc960c39.css.map",
-    "main.06197691.js.map": "/9-silver-employment-agency/static/js/main.06197691.js.map"
+    "main.8ca1f398.css.map": "/9-silver-employment-agency/static/css/main.8ca1f398.css.map",
+    "main.7fa8409a.js.map": "/9-silver-employment-agency/static/js/main.7fa8409a.js.map"
   },
   "entrypoints": [
-    "static/css/main.fc960c39.css",
-    "static/js/main.06197691.js"
+    "static/css/main.8ca1f398.css",
+    "static/js/main.7fa8409a.js"
   ]
 }
