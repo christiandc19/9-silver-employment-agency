@@ -1,11 +1,12 @@
 {
   "files": {
-    "main.css": "/9-silver-employment-agency/static/css/main.72771eb8.css",
-    "main.js": "/9-silver-employment-agency/static/js/main.09c8c04c.js",
+    "main.css": "/9-silver-employment-agency/static/css/main.1fb0898c.css",
+    "main.js": "/9-silver-employment-agency/static/js/main.7f88d533.js",
     "static/media/menu-bg-west-hollywood.png": "/9-silver-employment-agency/static/media/menu-bg-west-hollywood.5cfb379f0f407f5b0b7c.png",
     "static/media/venice-retreat1.png": "/9-silver-employment-agency/static/media/venice-retreat1.9e4e62b22ff14f836cf8.png",
     "static/media/menu-bg-huntington-beach-min.png": "/9-silver-employment-agency/static/media/menu-bg-huntington-beach-min.391a3cc07fbad9b9c42e.png",
     "static/media/card1.jpg": "/9-silver-employment-agency/static/media/card1.51fa95ea30aca7bcf807.jpg",
+    "static/media/card3.jpg": "/9-silver-employment-agency/static/media/card3.7f1bbf69cc0d4d370a79.jpg",
     "static/media/card2.jpg": "/9-silver-employment-agency/static/media/card2.74fcd60b492d6ec8f923.jpg",
     "static/media/menu-bg-sober-living.jpg": "/9-silver-employment-agency/static/media/menu-bg-sober-living.b6ea09ccc7a99ec36c14.jpg",
     "static/media/footer-bg.jpg": "/9-silver-employment-agency/static/media/footer-bg.7e2cd81203200aca84ce.jpg",
@@ -18,7 +19,6 @@
     "static/media/citrus-retreat1-min.png": "/9-silver-employment-agency/static/media/citrus-retreat1-min.ff95d19c5f681481d7c2.png",
     "static/media/treatment-1.jpg": "/9-silver-employment-agency/static/media/treatment-1.8dc8bd46e08b8d8a0f0e.jpg",
     "static/media/hero-bg2.jpg": "/9-silver-employment-agency/static/media/hero-bg2.168043bbfc58895434c7.jpg",
-    "static/media/card3.jpg": "/9-silver-employment-agency/static/media/card3.e7a92c385505ba58f1b9.jpg",
     "static/media/treatment-3.jpg": "/9-silver-employment-agency/static/media/treatment-3.3dfe995170f2d27b9d38.jpg",
     "static/media/contact-form-bg.jpg": "/9-silver-employment-agency/static/media/contact-form-bg.f8f51c24ccd4688fa090.jpg",
     "static/media/detroit3-min.jpg": "/9-silver-employment-agency/static/media/detroit3-min.3377ebb390133290e969.jpg",
@@ -36,11 +36,11 @@
     "static/media/icon-bed.jpg": "/9-silver-employment-agency/static/media/icon-bed.51fc82feba595a72b3e0.jpg",
     "index.html": "/9-silver-employment-agency/index.html",
     "static/media/waves.svg": "/9-silver-employment-agency/static/media/waves.e42ddec972c9ec214abc0ac6e8439ee4.svg",
-    "main.72771eb8.css.map": "/9-silver-employment-agency/static/css/main.72771eb8.css.map",
-    "main.09c8c04c.js.map": "/9-silver-employment-agency/static/js/main.09c8c04c.js.map"
+    "main.1fb0898c.css.map": "/9-silver-employment-agency/static/css/main.1fb0898c.css.map",
+    "main.7f88d533.js.map": "/9-silver-employment-agency/static/js/main.7f88d533.js.map"
   },
   "entrypoints": [
-    "static/css/main.72771eb8.css",
-    "static/js/main.09c8c04c.js"
+    "static/css/main.1fb0898c.css",
+    "static/js/main.7f88d533.js"
   ]
 }
