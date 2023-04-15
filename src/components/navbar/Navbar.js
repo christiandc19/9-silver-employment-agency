@@ -1,6 +1,6 @@
 import React, { useState } from 'react'
 import { FaBars, FaTimes } from 'react-icons/fa'
-import {NavLink, Link} from 'react-router-dom'
+import {Link} from 'react-router-dom'
 import logo from '../../assets/nav-logo.png'
 // import {FiChevronDown } from "react-icons/fi";
 import { AiOutlinePhone } from 'react-icons/ai';
@@ -12,32 +12,32 @@ const Navbar = () => {
     const [nav, setNav] = useState(false)
     const handleNav = () => setNav(!nav)
 
-    const [isMenu, setisMenu] = useState(false);
+    // const [isMenu, setisMenu] = useState(false);
 
 
-    const toggleClass = () => {
-        setisMenu(isMenu === false ? true : false);
-    };
+    // const toggleClass = () => {
+    //     setisMenu(isMenu === false ? true : false);
+    // };
 
-    let boxClass = ["main-menu menu-right menuq1"];
-    if(isMenu) {
-        boxClass.push('menuq2');
-    }else{
-        boxClass.push('');
-    }
+    // let boxClass = ["main-menu menu-right menuq1"];
+    // if(isMenu) {
+    //     boxClass.push('menuq2');
+    // }else{
+    //     boxClass.push('');
+    // }
 
-    const [isMenuSubMenu, setMenuSubMenu] = useState(false);
+    // const [isMenuSubMenu, setMenuSubMenu] = useState(false);
       
-    const toggleSubmenu = () => {
-      setMenuSubMenu(isMenuSubMenu === false ? true : false);
-    };
+    // const toggleSubmenu = () => {
+    //   setMenuSubMenu(isMenuSubMenu === false ? true : false);
+    // };
     
-    let boxClassSubMenu = ["sub__menus"];
-    if(isMenuSubMenu) {
-        boxClassSubMenu.push('sub__menus__Active');
-    }else {
-        boxClassSubMenu.push('');
-    }
+    // let boxClassSubMenu = ["sub__menus"];
+    // if(isMenuSubMenu) {
+    //     boxClassSubMenu.push('sub__menus__Active');
+    // }else {
+    //     boxClassSubMenu.push('');
+    // }
 
 
 
@@ -61,7 +61,7 @@ const Navbar = () => {
                     <li><Link to='/mission'>About 9 Silver</Link> </li> 
 
 
-                    <li><Link to='/contact'>Contact</Link></li>
+                    <li><Link to='/contact'>Get in touch</Link></li>
                 </ul>
 
                 <div className="hamburger" onClick={handleNav}>
