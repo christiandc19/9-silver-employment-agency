@@ -34,7 +34,7 @@ ul {
 
 a {
   text-decoration: none;
-  color: white;
+  color: rgb(235, 235, 235);
 }
 
 a:hover {
@@ -203,14 +203,7 @@ margin: 0px 5px;
   font-size: 16px;
 }
 
-.job-link a {
-  color:var(--primary-color);
-  font-weight: bold;
-}
 
-.job-link a:hover {
-  color: #46a828;
-}
 
 
 /* Wave Divider - SA and MH Hero Image */

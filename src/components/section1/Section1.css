@@ -1,0 +1,30 @@
+.section1-flex1 {
+    display: flex;
+    padding: 1rem 0;
+}
+
+.flex {
+    width: 35.9%;
+    text-align: center;
+    margin: auto;
+}
+
+.flex h1 {
+    padding: 1rem;
+}
+
+
+.flex p {
+    padding: 0 2rem;
+}
+
+.flex-icon {
+    font-size: 3rem;
+    color: var(--primary-color);
+    font-weight: 600;
+}
+
+
+@media screen and (max-width:940px) {
+
+}

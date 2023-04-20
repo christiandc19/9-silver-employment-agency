@@ -1,0 +1,69 @@
+.section2 .section2-flex {
+    display: flex;
+    justify-content: center;    
+}
+
+.grid1 {
+    padding: 3rem 0 0 0;
+}
+
+.section2 .section2-flex .flex {
+    width: 35.9%;
+    height: 500px;
+    text-align: center;
+    border: 1px solid var(--primary-color);
+}
+
+.section2 .flex h1 {
+    color: white;
+    margin-top: 25%;
+}
+
+.section2 .flex1 {
+    background: linear-gradient(to top, #2424248c, #1a19195d), url('../../assets/card1.jpg') no-repeat center center/cover;
+}
+
+.section2 .flex2 {
+    background: linear-gradient(to top, #2424248c, #1a19195d), url('../../assets/card2.jpg') no-repeat center center/cover;
+}
+
+.section2 .flex3 {
+    background: url('../../assets/card3.jpg') no-repeat center center/cover;
+}
+
+.section2 .flex4 {
+    background: linear-gradient(to top, #4645456c, #2c2c2ca4), url('../../assets/card4.jpg') no-repeat center center/cover;
+}
+
+.section2 .flex5 {
+    background: url('../../assets/card5.jpg') no-repeat center center/cover;
+}
+
+.section2 .flex6 {
+    background: linear-gradient(to top, #2424248c, #1a19195d), url('../../assets/card6.jpg') no-repeat center center/cover;
+}
+
+.section2 .flex7 {
+    background: linear-gradient(to top, #2424248c, #1a19195d), url('../../assets/card7.jpg') no-repeat center center/cover;
+}
+
+.section2 .flex p {
+    padding: 0 2rem;
+}
+
+.section2 .flex-icon {
+    font-size: 3rem;
+    color: var(--primary-color);
+    font-weight: 600;
+}
+
+
+@media screen and (max-width:940px) {
+        .section2 .section2-flex {
+        flex-wrap: wrap;
+    }
+    .section2 .section2-flex .flex {
+        width: 100%;
+    }
+    
+}
