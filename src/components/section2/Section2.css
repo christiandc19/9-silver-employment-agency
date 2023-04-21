@@ -9,14 +9,14 @@
 
 .section2 .section2-flex .flex {
     width: 35.9%;
-    height: 500px;
+    height: 350px;
     text-align: center;
     border: 1px solid rgb(185, 185, 185);
 }
 
 .section2 .flex h1 {
     color: white;
-    margin-top: 25%;
+    margin-top: 20%;
 }
 
 .section2 .flex1 {
@@ -61,9 +61,16 @@
 @media screen and (max-width:940px) {
         .section2 .section2-flex {
         flex-wrap: wrap;
+
     }
     .section2 .section2-flex .flex {
         width: 100%;
     }
+
+
+    .section2 .flex1 {
+        height: 50vw;
+    }
+
     
 }

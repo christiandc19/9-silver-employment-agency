@@ -20,7 +20,7 @@ const Contact = () => {
                     <h1>HAVE SOME QUESTIONS?</h1>
             </Fade>
             <Fade right>
-                  <p>Our Addiction and Recovery Support team is available 24 hours a day 7 Days a week. </p>
+                  <p>If you have any questions, we’re here for you. Just let us know how we can help and our team will get back to you right away.</p>
             </Fade>
             </div>
      </div>
