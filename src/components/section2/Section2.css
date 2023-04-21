@@ -1,50 +1,92 @@
 .section2 .section2-flex {
     display: flex;
-    justify-content: center;    
+    flex-wrap: wrap;
+    justify-content: center;
+    
 }
 
 .grid1 {
     padding: 3rem 0 0 0;
 }
 
-.section2 .section2-flex .flex {
-    width: 35.9%;
-    height: 350px;
-    text-align: center;
-    border: 1px solid rgb(185, 185, 185);
+.section2 .section2-flex .card {
+    width: 500px;
 }
 
-.section2 .flex h1 {
+.section2 .card h1 {
     color: white;
-    margin-top: 20%;
 }
 
-.section2 .flex1 {
-    background: linear-gradient(to top, #2424248c, #1a19195d), url('../../assets/card1.jpg') no-repeat center center/cover;
+/* Centered text */
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+
+
+  .section2 .flex1, .flex2, .flex3, .flex4, .flex5, .flex6, .flex7 {
+    position: relative;
+    text-align: center;
+    color: white;
+    background: black;
+    overflow: hidden;
 }
 
-.section2 .flex2 {
-    background: linear-gradient(to top, #2424248c, #1a19195d), url('../../assets/card2.jpg') no-repeat center center/cover;
+
+.section2 .flex1 img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    opacity: 0.6;
 }
 
-.section2 .flex3 {
-    background: url('../../assets/card3.jpg') no-repeat center center/cover;
+.section2 .flex2 img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    opacity: 0.6;
 }
 
-.section2 .flex4 {
-    background: linear-gradient(to top, #4645456c, #2c2c2ca4), url('../../assets/card4.jpg') no-repeat center center/cover;
+.section2 .flex3 img 
+{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    opacity: 0.6;
 }
 
-.section2 .flex5 {
-    background: url('../../assets/card5.jpg') no-repeat center center/cover;
+.section2 .flex4 img 
+{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    opacity: 0.6;
 }
 
-.section2 .flex6 {
-    background: linear-gradient(to top, #2424248c, #1a19195d), url('../../assets/card6.jpg') no-repeat center center/cover;
+.section2 .flex5 img 
+{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    opacity: 0.6;
 }
 
-.section2 .flex7 {
-    background: linear-gradient(to top, #2424248c, #1a19195d), url('../../assets/card7.jpg') no-repeat center center/cover;
+.section2 .flex6 img 
+{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    opacity: 0.6;
+}
+
+.section2 .flex7 img 
+{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    opacity: 0.6;
 }
 
 .section2 .flex p {
@@ -58,19 +100,35 @@
 }
 
 
-@media screen and (max-width:940px) {
+@media screen and (max-width:1200px) {
         .section2 .section2-flex {
         flex-wrap: wrap;
-
     }
+
     .section2 .section2-flex .flex {
-        width: 100%;
+        width: 51%;
+        padding: 1rem;
+        border: none;
     }
 
+    .section2 .section2-flex .flex img {
+        border-radius: .5rem;
+    }
 
-    .section2 .flex1 {
+    /* .section2 .flex1 {
         height: 50vw;
-    }
+    } */
 
     
+}
+
+
+@media screen and (max-width:600px) {
+
+    .section2 .section2-flex .card {
+        width: 100%;
+        margin: 0 1rem;
+    }
+
+
 }

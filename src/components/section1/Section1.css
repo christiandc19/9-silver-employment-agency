@@ -3,18 +3,18 @@
     padding: 1rem 0;
 }
 
-.flex {
+.flexItems {
     width: 35.9%;
     text-align: center;
     margin: auto;
 }
 
-.flex h1 {
+.flexItems h1 {
     padding: 1rem;
 }
 
 
-.flex p {
+.flexItems p {
     padding: 0 2rem;
 }
 
@@ -31,7 +31,7 @@
         gap: 1rem;
     }
 
-    .flex {
+    .flexItems {
         width: 100%;
         padding: 1rem;    
         background-color: rgb(247, 247, 247);

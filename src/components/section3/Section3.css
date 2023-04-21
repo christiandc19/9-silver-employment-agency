@@ -1,10 +1,18 @@
 
+
 .section3 {
+    margin: 3rem 0;
     padding: 5rem 0  ;
+    background-color: #fbfbfc;
+}
+
+.section3-btn {
+    text-align: center;
 }
 
 .section3-content {
     text-align: center;
+    padding: 2rem;
 }  
 
 .section3-content h1 {

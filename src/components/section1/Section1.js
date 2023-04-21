@@ -15,19 +15,19 @@ const Section1 = () => {
       <div className='section1 container'>
         <div className='section1-flex1'>
 
-          <div className='flex flex1'>
+          <div className='flexItems flexItems1'>
             <RxMagnifyingGlass className='flex-icon'/> 
             <h1>RECRUITMENT</h1>
             <p>A more intense, comprehensive treatment approach than IOP, available every day of the week.</p>
           </div>
 
-          <div className='flex flex2'>
+          <div className='flexItems flexItems2'>
             <BsArrowUpRight className='flex-icon'/> 
             <h1>CAREER GROWTH</h1>
             <p>A more intense, comprehensive treatment approach than IOP, available every day of the week.</p>
           </div>
 
-          <div className='flex flex3'>
+          <div className='flexItems flexItems3'>
             <BsPeople className='flex-icon'/> 
             <h1>HR SOLUTION</h1>
             <p>A more intense, comprehensive treatment approach than IOP, available every day of the week.</p>
@@ -38,19 +38,19 @@ const Section1 = () => {
 
         <div className='section1-flex1'>
 
-          <div className='flex flex1'>
+          <div className='flexItems flexItems1'>
             <MdWorkOutline className='flex-icon'/> 
             <h1>GIGS</h1>
             <p>A more intense, comprehensive treatment approach than IOP, available every day of the week.</p>
           </div>
 
-          <div className='flex flex2'>
+          <div className='flexItems flexItems2'>
             <BiDollar className='flex-icon'/> 
             <h1>PAYROLL SERVICES</h1>
             <p>A more intense, comprehensive treatment approach than IOP, available every day of the week.</p>
           </div>
 
-          <div className='flex flex3'>
+          <div className='flexItems flexItems3'>
             <AiOutlineTeam className='flex-icon'/> 
             <h1>WORKFORCE TEAM</h1>
             <p>A more intense, comprehensive treatment approach than IOP, available every day of the week.</p>
