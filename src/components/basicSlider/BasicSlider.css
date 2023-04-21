@@ -106,7 +106,7 @@ ol, li {
 
 
 .carousel__slide:nth-child(2) {
-  background: linear-gradient(to top, #0000006c, #2c2c2ca4), url('../../assets/hero-bg2.jpg') no-repeat center top/cover;
+  background: linear-gradient(to top, #0000006c, #2c2c2ca4), url('../../assets/hero-bg2.jpg') no-repeat center center/cover;
 }
 
 .carousel__slide:nth-child(3) {

@@ -6,11 +6,11 @@
 }
 
 .grid1 {
-    padding: 3rem 0 0 0;
+    padding: 5rem 0;
 }
 
 .section2 .section2-flex .card {
-    width: 500px;
+    width: 600px;
 }
 
 .section2 .card h1 {
@@ -101,6 +101,11 @@
 
 
 @media screen and (max-width:1200px) {
+
+    .section2 .section2-flex .card {
+        width: 600px;
+    }
+    
         .section2 .section2-flex {
         flex-wrap: wrap;
     }
@@ -121,7 +126,6 @@
 
     
 }
-
 
 @media screen and (max-width:600px) {
 
