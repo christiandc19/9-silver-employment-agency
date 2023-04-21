@@ -18,19 +18,19 @@ const Section1 = () => {
           <div className='flexItems flexItems1'>
             <RxMagnifyingGlass className='flex-icon'/> 
             <h1>RECRUITMENT</h1>
-            <p>A more intense, comprehensive treatment approach than IOP, available every day of the week.</p>
+            <p>Lorem Ipsum ist in der Industrie bereits der Standard Demo-Text seit 1500.</p>
           </div>
 
           <div className='flexItems flexItems2'>
             <BsArrowUpRight className='flex-icon'/> 
             <h1>CAREER GROWTH</h1>
-            <p>A more intense, comprehensive treatment approach than IOP, available every day of the week.</p>
+            <p>Lorem Ipsum ist in der Industrie bereits der Standard Demo-Text seit 1500.</p>
           </div>
 
           <div className='flexItems flexItems3'>
             <BsPeople className='flex-icon'/> 
             <h1>HR SOLUTION</h1>
-            <p>A more intense, comprehensive treatment approach than IOP, available every day of the week.</p>
+            <p>Lorem Ipsum ist in der Industrie bereits der Standard Demo-Text seit 1500.</p>
           </div>
 
         </div>
@@ -41,19 +41,19 @@ const Section1 = () => {
           <div className='flexItems flexItems1'>
             <MdWorkOutline className='flex-icon'/> 
             <h1>GIGS</h1>
-            <p>A more intense, comprehensive treatment approach than IOP, available every day of the week.</p>
+            <p>Lorem Ipsum ist in der Industrie bereits der Standard Demo-Text seit 1500.</p>
           </div>
 
           <div className='flexItems flexItems2'>
             <BiDollar className='flex-icon'/> 
             <h1>PAYROLL SERVICES</h1>
-            <p>A more intense, comprehensive treatment approach than IOP, available every day of the week.</p>
+            <p>Lorem Ipsum ist in der Industrie bereits der Standard Demo-Text seit 1500.</p>
           </div>
 
           <div className='flexItems flexItems3'>
             <AiOutlineTeam className='flex-icon'/> 
             <h1>WORKFORCE TEAM</h1>
-            <p>A more intense, comprehensive treatment approach than IOP, available every day of the week.</p>
+            <p>Lorem Ipsum ist in der Industrie bereits der Standard Demo-Text seit 1500.</p>
           </div>
 
 </div>
