@@ -26,5 +26,15 @@
 
 
 @media screen and (max-width:940px) {
+    .section1-flex1 {
+        flex-wrap: wrap;
+        gap: 1rem;
+    }
 
+    .flex {
+        width: 100%;
+        padding: 1rem;    
+        background-color: rgb(247, 247, 247);
+    }
+    
 }
