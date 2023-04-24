@@ -96,7 +96,7 @@
   border: none;
   outline: none;
   font-size: 16px;
-  background: #F0F1F8;
+  background: #f0f1f81a;
   border-radius: 6px;
   padding: 0 15px;
   resize: none;
@@ -116,13 +116,13 @@
 }
 
 .contact-btn {
-  color: #fff;
+  color: #8d8c8c;
   font-size: 18px;
   outline: none;
   border: none;
   padding: 8px 16px;
   border-radius: 6px;
-  background: var(--primary-color);
+  background: white;
   cursor: pointer;
   transition: all 0.3s ease;
 }

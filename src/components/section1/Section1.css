@@ -9,7 +9,7 @@
     width: 35.9%;
     text-align: center;
     padding: 2rem;
-    border: 1px solid white;
+    border: 1px solid rgba(255, 255, 255, 0.199);
 }
 
 .flexItems h1 {

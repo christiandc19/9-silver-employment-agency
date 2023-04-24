@@ -11,7 +11,7 @@
 .footer:before {
     content:'';
     position: absolute;
-    background: linear-gradient(to top, #010114, #010114af), url('../../assets/menu-bg-mission.jpg')no-repeat center top/cover;
+    background: linear-gradient(to top, #010114, #010114af), url('../../assets/footer.bg.jpg')no-repeat center center/cover;
     height: 100%;
     width: 100%;
     z-index: -1;
