@@ -17,7 +17,7 @@ const Testimonials = () => {
         <div class="col">
           <div class="testimonial">
             <img src="https://images.pexels.com/photos/3211476/pexels-photo-3211476.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940" alt="" />
-            <div class="name">John Waddrob</div>
+            <div class="name">Client One</div>
             <div class="stars">
               <AiFillStar className="fas fa-star" /> 
               <AiFillStar className="fas fa-star" /> 
@@ -32,7 +32,7 @@ const Testimonials = () => {
         <div class="col">
           <div class="testimonial">
             <img src="https://images.pexels.com/photos/3585325/pexels-photo-3585325.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940" alt="" />
-            <div class="name">John Waddrob</div>
+            <div class="name">Client Two</div>
             <div class="stars">
             <AiFillStar className="fas fa-star" /> 
             <AiFillStar className="fas fa-star" /> 
@@ -47,7 +47,7 @@ const Testimonials = () => {
         <div class="col">
           <div class="testimonial">
             <img src="https://images.pexels.com/photos/2690323/pexels-photo-2690323.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940" alt="" />
-            <div class="name">John Waddrob</div>
+            <div class="name">Client Three</div>
             <div class="stars">
             <AiFillStar className="fas fa-star" /> 
             <AiFillStar className="fas fa-star" /> 

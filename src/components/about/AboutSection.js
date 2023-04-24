@@ -11,16 +11,19 @@ const MissionSection = () => {
     return (
         <>
 <section class="about-section">
-    	<div class="container">
         	<div class="row clearfix">
             	
+
+<div className='about-flex'>
+<div className='about-left'>
+
                 <div class="content-column col-md-6 col-sm-12 col-xs-12">
                 	<div class="inner-column">
                     	<div class="sec-title">
                     		<div class="title">About Us</div>
                         	<h2>We’re driven to help our clients hire team members and leaders who make a meaningful impact within their own orginization.</h2>
                         </div>
-                        <div class="text">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries</div>
+                        <div class="text">We offer Locum Tenens, Travel Nursing, Travel Therapy, and Allied Health staffing agency services for California businesses, healthcare organizations and government entities. Our recruiting teams will introduce you to the healthcare specialists you need. From phlebotomists to physicians, CRNAs to physical therapists, medical assistants to HR managers, we’ve got you covered. </div>
 
                         <div className='section3-btn'>
 <LinkRoll activeClass="active" to="top" spy={true} smooth={true} duration={500}>
@@ -35,24 +38,30 @@ const MissionSection = () => {
 </Link>
 </LinkRoll>
 </div>
-
-
                     </div>
                 </div>
                 
+                </div>
+
+
+                <div className='about-right'>
+
+
                 <div class="image-column col-md-6 col-sm-12 col-xs-12">
                 	<div class="inner-column " data-wow-delay="0ms" data-wow-duration="1500ms">
                     	<div class="image">
                         <img src={ Card7 } alt="Therapy Session" loading="lazy"/>
                             <div class="overlay-box">
-                            	<div class="year-box"><span class="number">5</span>Years <br /> Providing <br /> Service</div>
+                            	<div class="year-box"><span class="number">9</span>Years of <br /> Providing <br /> Service</div>
                             </div>
                         </div>
                     </div>
                 </div>
                 
+</div>
+</div>
+
             </div>
-        </div>
     </section>
 
 </>

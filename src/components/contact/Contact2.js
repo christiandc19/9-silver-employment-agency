@@ -30,7 +30,9 @@ const ContactForm = () => {
 
     <div className="contact2-header contact2-container">
         <h1>Get to know our team and learn what 9 Silver can do for you.</h1><br />
-        <p>Our Support team is available 24 hours a day 7 Days a week.</p>
+        <p>What’s your specialty? Where do you want to go?
+Tell us, and a 9 Silver staff will take it from there.
+</p>
     </div>
 
 <div class="contact2-container">
