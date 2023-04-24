@@ -60,9 +60,10 @@
 
 .footer .col-container {
     display: grid;
-    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-columns: 2fr 2fr ;
     padding: 1rem;
     width: 100%;
+    text-align: center;
 }
 
 .footer h3 {
@@ -76,7 +77,7 @@
     margin: .5rem 0;
     color: white;
     font-weight: 500;
-    text-align: left;
+    text-align: center;
 }
 
 .footer form {
