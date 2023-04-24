@@ -10,7 +10,8 @@ const hero = () => {
     <>
 
     <div className='hero-caption'>
-    <h1>Executive Search Firm <br /> Specializing in Healthcare Recruitment</h1>
+    <h1>Executive Search Firm </h1>
+    <h2>Specializing in Healthcare Recruitment</h2>
 
     <div className='section3-btn'>
 <LinkRoll activeClass="active" to="top" spy={true} smooth={true} duration={500}>

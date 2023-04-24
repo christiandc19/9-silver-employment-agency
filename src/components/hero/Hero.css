@@ -2,8 +2,8 @@
   position: absolute;
   z-index: 2;
   top: 40%;
-  left: 10%;
-  width: 50%;
+  left: 5%;
+  width: 70%;
 }
 
 
@@ -12,16 +12,21 @@
   font-size: 4rem;
 }
 
+.hero-caption h2 {
+  color: white;
+  font-size: 2rem;
+}
+
 .section__hero {
   position: relative;
   width: 100%;
-  height: 90vh;
+  height: 100vh;
   transition: opacity 1.25s ease-in-out;
-  background: linear-gradient(to top, #010114, #01011444);
+  background: linear-gradient(to top, #01011410, #0101142a);
 }
 .crossFade__image {
   width: 100%;
-  height: 90vh;
+  height: 100vh;
   opacity: 0;
   animation-name: crossFade;
   animation-timing-function: ease-in-out;
@@ -31,7 +36,7 @@
 }
 
 .crossFade__image1 {
-  background: linear-gradient(to top, #010114, #01011444), url('../../assets/hero-bg1.jpg') no-repeat center top/cover;
+  background: linear-gradient(to top, #010114, #01011400), url('../../assets/hero-bg1.jpg') no-repeat center top/cover;
   position: absolute;
   animation-delay: 0s;
 
@@ -39,7 +44,7 @@
 }
 
 .crossFade__image2 {
-  background: linear-gradient(to top, #010114, #01011444), url('../../assets/hero-bg2.jpg') no-repeat center top/cover;
+  background: linear-gradient(to top, #010114, #01011400), url('../../assets/hero-bg2.jpg') no-repeat center top/cover;
   position: absolute;
   animation-delay: 4s;
 
@@ -47,7 +52,7 @@
 }
 
 .crossFade__image3 {
-  background: linear-gradient(to top, #010114, #01011444), url('../../assets/hero-bg3.jpg') no-repeat center top/cover;
+  background: linear-gradient(to top, #010114, #01011400), url('../../assets/hero-bg3.jpg') no-repeat center top/cover;
   position: absolute;
   animation-delay: 8s;
 
