@@ -1,28 +1,29 @@
 {
   "files": {
-    "main.css": "/9-silver-employment-agency/static/css/main.a0982cac.css",
+    "main.css": "/9-silver-employment-agency/static/css/main.eea981b3.css",
     "main.js": "/9-silver-employment-agency/static/js/main.887c0c0a.js",
-    "static/media/menu-bg-contact.jpg": "/9-silver-employment-agency/static/media/menu-bg-contact.9f2adfacab3dd1050ab8.jpg",
-    "static/media/hero-bg1.jpg": "/9-silver-employment-agency/static/media/hero-bg1.1cc04c841f6b551ad888.jpg",
-    "static/media/hero-bg2.jpg": "/9-silver-employment-agency/static/media/hero-bg2.3377382e5a68c82b6e74.jpg",
-    "static/media/hero-bg3.jpg": "/9-silver-employment-agency/static/media/hero-bg3.f99207dddb3b46643425.jpg",
+    "static/media/mission-bg.jpg": "/9-silver-employment-agency/static/media/mission-bg.6e3cd8dc9bca81991523.jpg",
     "static/media/card4-min.jpg": "/9-silver-employment-agency/static/media/card4-min.48eace6dec0fb4bd2cdd.jpg",
     "static/media/card6-min.jpg": "/9-silver-employment-agency/static/media/card6-min.bc6ae53ef6a8e4e04867.jpg",
     "static/media/card7-min.jpg": "/9-silver-employment-agency/static/media/card7-min.dbd279ee2ea839797fd2.jpg",
+    "static/media/hero-bg3.jpg": "/9-silver-employment-agency/static/media/hero-bg3.f5161bc729dc38003b88.jpg",
     "static/media/card3-min.jpg": "/9-silver-employment-agency/static/media/card3-min.1fb839497dc89cfe6256.jpg",
+    "static/media/menu-bg-contact.jpg": "/9-silver-employment-agency/static/media/menu-bg-contact.8cbc42aed19f5284029b.jpg",
     "static/media/card1-min.jpg": "/9-silver-employment-agency/static/media/card1-min.a4dc041f27a674987741.jpg",
     "static/media/card2-min.jpg": "/9-silver-employment-agency/static/media/card2-min.bd7969f98892aaa51058.jpg",
+    "static/media/hero-bg1.jpg": "/9-silver-employment-agency/static/media/hero-bg1.17d2e498f5b0610cad73.jpg",
+    "static/media/hero-bg2.jpg": "/9-silver-employment-agency/static/media/hero-bg2.d2bf5b64b1f4d6345f81.jpg",
     "static/media/card5-min.jpg": "/9-silver-employment-agency/static/media/card5-min.d2f3adae099c859e58a0.jpg",
-    "static/media/menu-bg-mission.jpg": "/9-silver-employment-agency/static/media/menu-bg-mission.2622a06134fb08274d7b.jpg",
+    "static/media/footer.bg.jpg": "/9-silver-employment-agency/static/media/footer.bg.2622a06134fb08274d7b.jpg",
     "static/media/employment-assistance.jpg": "/9-silver-employment-agency/static/media/employment-assistance.901043c1cb7000c857c3.jpg",
     "static/media/contact-form-bg.jpg": "/9-silver-employment-agency/static/media/contact-form-bg.f8f51c24ccd4688fa090.jpg",
     "static/media/nav-logo.png": "/9-silver-employment-agency/static/media/nav-logo.535ec61585324b3a4493.png",
     "index.html": "/9-silver-employment-agency/index.html",
-    "main.a0982cac.css.map": "/9-silver-employment-agency/static/css/main.a0982cac.css.map",
+    "main.eea981b3.css.map": "/9-silver-employment-agency/static/css/main.eea981b3.css.map",
     "main.887c0c0a.js.map": "/9-silver-employment-agency/static/js/main.887c0c0a.js.map"
   },
   "entrypoints": [
-    "static/css/main.a0982cac.css",
+    "static/css/main.eea981b3.css",
     "static/js/main.887c0c0a.js"
   ]
 }
