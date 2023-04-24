@@ -1,29 +1,31 @@
 .section1-flex1 {
     display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
     padding: 1rem 0;
 }
 
 .flexItems {
     width: 35.9%;
     text-align: center;
-    margin: auto;
-    background-color: rgb(247, 247, 247);
-    margin: 2px;
     padding: 2rem;
+    border: 1px solid white;
 }
 
 .flexItems h1 {
     padding: 1rem;
+    color: white;
 }
 
 
 .flexItems p {
     padding: 0 2rem;
+    color: white;
 }
 
 .flex-icon {
     font-size: 3rem;
-    color: var(--primary-color);
+    color: rgb(201, 157, 13);
     font-weight: 600;
 }
 
@@ -31,13 +33,11 @@
 @media screen and (max-width:940px) {
     .section1-flex1 {
         flex-wrap: wrap;
-        gap: 1rem;
     }
 
     .flexItems {
         width: 100%;
         padding: 1rem;    
-        background-color: rgb(247, 247, 247);
     }
     
 }

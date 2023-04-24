@@ -45,7 +45,7 @@ const Footer = () => {
                     </div>
 
 
-                    <div className="col">
+                    {/* <div className="col">
                         <h3>LOCATIONS</h3>
                         <LinkRoll activeClass="active" to="top" spy={true} smooth={true} duration={500} >
                         <Link to='/north-citrus'><p>North Citus, Los Angeles</p></Link>
@@ -66,7 +66,7 @@ const Footer = () => {
                         <LinkRoll activeClass="active" to="top" spy={true} smooth={true} duration={500} >
                         <Link to='/venice'><p>Venice, California</p></Link>
                         </LinkRoll>
-                    </div>
+                    </div> */}
 
 
                     <form>

@@ -20,7 +20,7 @@ const BasicSlider = () => {
             <h1>CONNECTING THE <br/ > RIGHT PEOPLE TO THE <br />RIGHT BUSINESS</h1>
             <h2>Specializing in Health Care Recruitment</h2>
 
-            <div className='section3-btn'>
+            <div className='hero-btn'>
 <LinkRoll activeClass="active" to="top" spy={true} smooth={true} duration={500}>
 <Link to="/contact">
         <button class="cta">
@@ -78,6 +78,8 @@ const BasicSlider = () => {
         <div className="slider-caption1">
         <h1>TEMPORARY <br/> STAFFING</h1>
         <h2>Specializing in Health Care recruitment</h2>
+
+
         <div className='section3-btn'>
 <LinkRoll activeClass="active" to="top" spy={true} smooth={true} duration={500}>
 <Link to="/contact">

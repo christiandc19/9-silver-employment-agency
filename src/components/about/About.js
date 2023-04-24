@@ -4,7 +4,7 @@ import Fade from 'react-reveal/Fade';
 
 import './About.css'
 
-import Wave from '../../assets/waves.svg'
+// import Wave from '../../assets/waves.svg'
 
 
 const Mission = () => {
@@ -13,9 +13,9 @@ const Mission = () => {
 <>
 
         <div className='mission main-menu'>
-        <div className='hero-divider'>
+        {/* <div className='hero-divider'>
                 <img src={Wave} loading="lazy" repeat-x alt='wave divider'/>
-            </div>
+            </div> */}
                 <div className="mission-content">
                     <Fade top>
                     <h1>ABOUT US</h1>

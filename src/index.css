@@ -22,6 +22,8 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   font-family: 'Roboto', sans-serif;
+  background: linear-gradient(to bottom, #00000f, #020224);
+
 }
 
 code {
@@ -34,8 +36,9 @@ ul {
 
 a {
   text-decoration: none;
-  color: rgb(0, 0, 0);
+  color: rgb(221, 221, 221);
   font-family: 'Roboto', sans-serif;
+  font-weight: 300;
 
 }
 

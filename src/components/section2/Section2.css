@@ -10,7 +10,7 @@
 }
 
 .section2 .section2-flex .card {
-    width: 600px;
+    width: 520px;
 }
 
 .section2 .card h1 {
@@ -40,14 +40,14 @@
     width: 100%;
     height: 100%;
     object-fit: cover;
-    opacity: 0.6;
+    opacity: 0.4;
 }
 
 .section2 .flex2 img {
     width: 100%;
     height: 100%;
     object-fit: cover;
-    opacity: 0.6;
+    opacity: 0.4;
 }
 
 .section2 .flex3 img 
@@ -55,7 +55,7 @@
     width: 100%;
     height: 100%;
     object-fit: cover;
-    opacity: 0.6;
+    opacity: 0.4;
 }
 
 .section2 .flex4 img 
@@ -63,7 +63,7 @@
     width: 100%;
     height: 100%;
     object-fit: cover;
-    opacity: 0.6;
+    opacity: 0.4;
 }
 
 .section2 .flex5 img 
@@ -71,7 +71,7 @@
     width: 100%;
     height: 100%;
     object-fit: cover;
-    opacity: 0.6;
+    opacity: 0.4;
 }
 
 .section2 .flex6 img 
@@ -79,7 +79,7 @@
     width: 100%;
     height: 100%;
     object-fit: cover;
-    opacity: 0.6;
+    opacity: 0.4;
 }
 
 .section2 .flex7 img 
@@ -87,7 +87,7 @@
     width: 100%;
     height: 100%;
     object-fit: cover;
-    opacity: 0.6;
+    opacity: 0.4;
 }
 
 .section2 .flex p {

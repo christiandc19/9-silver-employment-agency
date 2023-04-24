@@ -1,58 +1,59 @@
 import React from 'react'
 import './AboutSection.css'
-import Fade from 'react-reveal/Fade';
-import ContactForm from '../contact/ContactForm'
+import Card7 from '../../assets/card7-min.jpg'
 
-import Therapy from '../../assets/therapy.jpg'
-import Staff from '../../assets/staff.jpg'
-import Clinic from '../../assets/clinic.jpg'
 
+import { Link } from 'react-router-dom';
+import { Link as LinkRoll } from 'react-scroll'
 
 
 const MissionSection = () => {
     return (
         <>
-        <div className='mission-section container'>
-        <h1 className='mission-header'>OUR MISSION</h1>
-        <p>9 Silver is a combination of sober living housing opportunities. Our mission is to create a stable and productive future through healing and close monitoring of all aspects of recovery. We oversee a handful of recovery clinic locations and sober living alternatives in Southern California. </p>
-
-        <h1 className='mission-header'>OUR MINDSET</h1>
-
-
-            <div>
-                <div className="content">
-                <div className='flex-right'>
-                    <Fade top>
-                    <div className='thumbnail'>
-                        <img src={ Therapy } width="300" height="250" alt="Therapy Session" loading="lazy"/>
-                        <div>                   
-                        <p>To provide a structured environment that creates maximum healing.</p>
+<section class="about-section">
+    	<div class="container">
+        	<div class="row clearfix">
+            	
+                <div class="content-column col-md-6 col-sm-12 col-xs-12">
+                	<div class="inner-column">
+                    	<div class="sec-title">
+                    		<div class="title">About Us</div>
+                        	<h2>We’re driven to help our clients hire team members and leaders who make a meaningful impact within their own orginization.</h2>
                         </div>
-                    </div>
-                    </Fade>
+                        <div class="text">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries</div>
 
+                        <div className='section3-btn'>
+<LinkRoll activeClass="active" to="top" spy={true} smooth={true} duration={500}>
+<Link to="/contact">
+        <button class="cta">
+  <span>Contact Us</span>
+  <svg viewBox="0 0 13 10" height="10px" width="15px">
+    <path d="M1,5 L11,5"></path>
+    <polyline points="8 1 12 5 8 9"></polyline>
+  </svg>
+</button>
+</Link>
+</LinkRoll>
+</div>
 
-                    <Fade bottom>
-                    <div className='thumbnail'>
-                    <img src={ Staff } width="300" height="250" alt="Clinic Staff" loading="lazy"/>
-                    <p>To create a structured, safe, and functional recovery environment that stabilizes your life and leads to long-term stability.</p>
-                    </div>
-                    </Fade>
-
-                    <Fade top>
-                    <div className='thumbnail'>
-                    <img src={ Clinic } width="300" height="250" alt="Bluecross  Logo" loading="lazy"/>
-                    <p>To create an environment of recovery and healing that helps you rewrite your future and change your life.</p>
-                    </div>
-                    </Fade>
-                         
 
                     </div>
                 </div>
+                
+                <div class="image-column col-md-6 col-sm-12 col-xs-12">
+                	<div class="inner-column " data-wow-delay="0ms" data-wow-duration="1500ms">
+                    	<div class="image">
+                        <img src={ Card7 } alt="Therapy Session" loading="lazy"/>
+                            <div class="overlay-box">
+                            	<div class="year-box"><span class="number">5</span>Years <br /> Providing <br /> Service</div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
             </div>
         </div>
-
-        <ContactForm />
+    </section>
 
 </>
     )

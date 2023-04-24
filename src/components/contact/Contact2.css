@@ -2,14 +2,16 @@
 
 .contact2-header {
     width: auto;
-    padding: 20px;
+    padding: 1rem 0;
     text-align: center;
     margin: 0rem auto;
     font-family: 'Montserrat', sans-serif;
+    padding: 3rem 0 0 0;
 }
 
 .contact2-header h1, .contact2-header p {
   font-family: 'Montserrat', sans-serif;
+  color: white;
 }
 
  .contact-form-content {
@@ -18,6 +20,7 @@
   align-items: center;
   justify-content: space-evenly;
   margin: .5rem 0  1rem 0;
+  padding: 2rem 0 5rem 0;
 }
 
 .contact-form-content .left-side{
@@ -45,12 +48,13 @@
   background: #afafb6;
 }
 
-.contact-form-content .left-side .details{
+.contact-form-content .left-side .details {
   margin: 14px;
   text-align: center;
+  color: white;
 }
 
-.contact-form-content .left-side .details .topic{
+.contact-form-content .left-side .details .topic {
   font-size: 16px;
   font-weight: 800;
 }
@@ -58,7 +62,7 @@
 .contact-form-content .left-side .details .text-one, .text-one a,
 .contact-form-content .left-side .details .text-two{
   font-size: 14px;
-  color: #161616;
+  color: white;
   font-family: 'Montserrat', sans-serif;
 
 }
@@ -71,8 +75,12 @@
 .contact-form-content .right-side .topic-text{
   font-size: 25px;
   font-weight: 600;
-  color:var(--primary-color);
+  color: white;
   font-family: 'Montserrat', sans-serif;
+}
+
+.contact-form-content .right-side .topic-text-p{
+  color: white;
 }
 
 .right-side .input-box {
@@ -156,6 +164,7 @@
 
  .topic-text-p {
   text-align: left;
+
  }
 
 }
