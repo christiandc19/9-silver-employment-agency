@@ -1,7 +1,7 @@
 
 .about-section{
 	position:relative;
-	padding: 0 1rem 7rem 1rem;
+	padding: 7rem 1rem;
 }
 
 .about-flex {
@@ -188,5 +188,10 @@
         width: 100%;
         padding: 0 1rem;
     }
+
+    .about-section{
+	    padding: 5rem 1rem;
+}
+
 
 }

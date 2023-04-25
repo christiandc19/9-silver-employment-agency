@@ -52,7 +52,7 @@ const MissionSection = () => {
                     	<div class="image">
                         <img src={ Card7 } alt="Therapy Session" loading="lazy"/>
                             <div class="overlay-box">
-                            	<div class="year-box"><span class="number">9</span>Years of <br /> Providing <br /> Service</div>
+                            	{/* <div class="year-box"><span class="number">9</span>Years of <br /> Providing <br /> Service</div> */}
                             </div>
                         </div>
                     </div>
