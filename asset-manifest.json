@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/9-silver-employment-agency/static/css/main.357683c0.css",
-    "main.js": "/9-silver-employment-agency/static/js/main.b3ff7adb.js",
+    "main.css": "/9-silver-employment-agency/static/css/main.405e1258.css",
+    "main.js": "/9-silver-employment-agency/static/js/main.19347b0c.js",
     "static/media/mission-bg.jpg": "/9-silver-employment-agency/static/media/mission-bg.6e3cd8dc9bca81991523.jpg",
     "static/media/card4-min.jpg": "/9-silver-employment-agency/static/media/card4-min.48eace6dec0fb4bd2cdd.jpg",
     "static/media/card6-min.jpg": "/9-silver-employment-agency/static/media/card6-min.bc6ae53ef6a8e4e04867.jpg",
@@ -19,11 +19,11 @@
     "static/media/contact-form-bg.jpg": "/9-silver-employment-agency/static/media/contact-form-bg.f8f51c24ccd4688fa090.jpg",
     "static/media/nav-logo.png": "/9-silver-employment-agency/static/media/nav-logo.535ec61585324b3a4493.png",
     "index.html": "/9-silver-employment-agency/index.html",
-    "main.357683c0.css.map": "/9-silver-employment-agency/static/css/main.357683c0.css.map",
-    "main.b3ff7adb.js.map": "/9-silver-employment-agency/static/js/main.b3ff7adb.js.map"
+    "main.405e1258.css.map": "/9-silver-employment-agency/static/css/main.405e1258.css.map",
+    "main.19347b0c.js.map": "/9-silver-employment-agency/static/js/main.19347b0c.js.map"
   },
   "entrypoints": [
-    "static/css/main.357683c0.css",
-    "static/js/main.b3ff7adb.js"
+    "static/css/main.405e1258.css",
+    "static/js/main.19347b0c.js"
   ]
 }
