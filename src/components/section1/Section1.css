@@ -9,18 +9,18 @@
     width: 35.9%;
     text-align: center;
     padding: 2rem;
-    border: 1px solid rgba(255, 255, 255, 0.199);
+    border: 1px solid rgba(0, 0, 0, 0.241);
 }
 
 .flexItems h1 {
     padding: 1rem;
-    color: white;
+    color: rgb(57, 58, 58);
 }
 
 
 .flexItems p {
     padding: 0 2rem;
-    color: white;
+    color: rgb(57, 58, 58);
 }
 
 .flex-icon {

@@ -98,6 +98,7 @@ input {
   .contact-cards-container {
     flex-wrap: wrap;
     width: 330px;
+    margin-top: 4rem;
   }
 
   .get_form_inner2 {
@@ -107,7 +108,7 @@ input {
     padding: 2rem 1rem;
     background: #fff;
     /* box-shadow: -4px -2px 20px -7px #cfd5df; */
-    margin: 4rem 1rem 1rem 1rem;
+    margin: 1rem 1rem 1rem 1rem;
   }
 
   .get_form_inner2  h2 {

@@ -8,13 +8,12 @@
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
-    background: linear-gradient(to top, #01011421, #0101142a)
   }
   
   .contact-hero:before {
     content: '';
     position: absolute;
-    background: linear-gradient(to top, #010114, #01011444), url('../../assets/menu-bg-contact.jpg') no-repeat center center/cover;
+    background: url('../../assets/menu-bg-contact.jpg') no-repeat center center/cover;
     height: 100%;
     width: 100%;
     z-index: -1;
@@ -30,12 +29,12 @@
 .contact-hero h1 {
     font-size: 4rem;
     font-family: 'Montserrat', sans-serif;
-    color: white;
+    color: rgb(255, 255, 255);
 }
 
 .contact-hero p {
     font-family: 'Montserrat', sans-serif;
-    color: white;
+    color: rgb(255, 255, 255);
 }
 
 

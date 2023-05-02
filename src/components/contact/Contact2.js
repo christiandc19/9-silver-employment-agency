@@ -76,8 +76,12 @@ Tell us, and a 9 Silver staff will take it from there.
         <div class="input-box message-box">
         <textarea name="message" rows="4" placeholder="How can we help?" required ></textarea>
 
+        </div >
+
+        <div className="contact2-btn"> 
+        <input type="submit" value="Submit" />
         </div>
-        <input className="contact-btn" type="submit" value="Submit" />
+
       </form>
     </div>
     </div>

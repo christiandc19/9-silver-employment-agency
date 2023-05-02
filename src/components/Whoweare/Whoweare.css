@@ -10,14 +10,14 @@
 .SoberLiving-title h1 {
     font-size: 3rem;
     font-weight: bold;
-    color: white;
+    color: rgb(57, 58, 58);
     line-height: 3.5rem;
     font-family: 'Roboto', sans-serif;}
 
 .SoberLiving-title p {
     font-size: 16px;
     padding: 1rem;
-    color: white;
+    color: rgb(57, 58, 58);
 
 }
 
@@ -30,6 +30,8 @@
   .homepage-wrap li {
     font-family: 'Montserrat', sans-serif;
     text-align: justify;
+    color: rgb(57, 58, 58);
+
 }
   
   .box-btn {

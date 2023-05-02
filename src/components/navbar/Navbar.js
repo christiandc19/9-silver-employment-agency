@@ -1,7 +1,7 @@
 import React, { useState } from 'react'
 import { FaBars, FaTimes } from 'react-icons/fa'
 import {Link} from 'react-router-dom'
-import logo from '../../assets/nav-logo.png'
+import logo from '../../assets/nav-logo-bl.png'
 // import {FiChevronDown } from "react-icons/fi";
 import { AiOutlinePhone } from 'react-icons/ai';
 

@@ -11,7 +11,8 @@
 
 .contact2-header h1, .contact2-header p {
   font-family: 'Montserrat', sans-serif;
-  color: white;
+  color: rgb(57, 58, 58);
+  ;
 }
 
  .contact-form-content {
@@ -45,13 +46,13 @@
   right: -17px;
   top: 50%;
   transform: translateY(-50%);
-  background: #afafb6;
+  color: rgb(57, 58, 58);
 }
 
 .contact-form-content .left-side .details {
   margin: 14px;
   text-align: center;
-  color: white;
+  color: rgb(57, 58, 58);
 }
 
 .contact-form-content .left-side .details .topic {
@@ -62,7 +63,7 @@
 .contact-form-content .left-side .details .text-one, .text-one a,
 .contact-form-content .left-side .details .text-two{
   font-size: 14px;
-  color: white;
+  color: rgb(57, 58, 58);
   font-family: 'Montserrat', sans-serif;
 
 }
@@ -72,15 +73,15 @@
   margin-left: 75px;
 }
 
-.contact-form-content .right-side .topic-text{
+.contact-form-content .right-side .topic-text {
   font-size: 25px;
   font-weight: 600;
-  color: white;
+  color: rgb(57, 58, 58);
   font-family: 'Montserrat', sans-serif;
 }
 
-.contact-form-content .right-side .topic-text-p{
-  color: white;
+.contact-form-content .right-side .topic-text-p {
+  color: rgb(57, 58, 58);
 }
 
 .right-side .input-box {
@@ -96,7 +97,7 @@
   border: none;
   outline: none;
   font-size: 16px;
-  background: #f0f1f81a;
+  background: #7070701a;
   border-radius: 6px;
   padding: 0 15px;
   resize: none;
@@ -110,25 +111,26 @@
   padding-top: 6px;
 }
 
-.right-side .button{
+.right-side .button {
   display: inline-block;
   margin-top: 12px;
+  
 }
 
-.contact-btn {
-  color: #8d8c8c;
+.contact2-btn input {
+  color: #e8e7e7;
   font-size: 18px;
   outline: none;
   border: none;
   padding: 8px 16px;
   border-radius: 6px;
-  background: white;
+  background-color: rgb(34, 34, 34);
   cursor: pointer;
   transition: all 0.3s ease;
 }
 
 .contact-btn:hover {
-  background: rgb(21, 155, 148);
+  background: rgb(56, 7, 55);
 }
 
 @media (max-width: 940px) {
